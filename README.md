@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0x41-li
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning data Structure and Algorithms, Redux, tailwind.
+- 🌱 I’m currently learning UI/UX.
 - 💞️ I’m looking to collaborate on any web development project.
 - 📫 How to reach me: ali.sbane.dev@gmail.com
 
