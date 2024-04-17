@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0x41-li
-- 👀 I’m interested in everything, but to narrow everything down, I love cyber security.
+- 👀 I’m interested in everything, but cybersecurity is my thing.
 - 🌱 I’m currently learning Laravel & python.
 - 💞️ I’m looking to collaborate on any web development projects.
 - 📫 How to reach me: ali.sbane.dev@gmail.com
