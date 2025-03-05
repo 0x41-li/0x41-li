@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @0x41-li
-- 👀 I’m interested in anything and everything, a knowledge seeker, but cybersecurity is my passion.
-- 🌱 I’m currently learning Next.js advanced.
-- 💞️ I’m looking to collaborate on any web development projects.
+- 👋 Hi, I’m Ali.
+- 👀 I’m a knowledge seeker.
 - 📫 How to reach me: ali.sbane.dev@gmail.com
 
 <!---
