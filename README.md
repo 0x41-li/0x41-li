@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ali.
-- 👀 I’m a knowledge seeker.
+- 👋 Hi, I’m Ali
+- 👀 I like to understand things at the core level. It’s slower upfront, but that depth is what drives real long-term growth
 - 📫 How to reach me: ali.sbane.dev@gmail.com
 
 <!---
